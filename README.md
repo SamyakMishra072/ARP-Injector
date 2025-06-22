@@ -12,6 +12,6 @@ This project shows how to perform a simple ARP cache poisoning (Man-in-the-Middl
 ## 🔧 Usage
 ```bash
 git clone https://github.com/SamyakMishra072/ARP-Injector.git
-cd arp-poison-demo
+cd ARP-Injector
 pip3 install -r requirements.txt
 sudo python3 arp_poison.py <Victim_IP> <Gateway_IP>
