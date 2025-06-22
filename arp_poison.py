@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# arp_poison.py — ARP Cache Poisoning Demo
-
 from scapy.all import ARP, Ether, send, srp
 import time
 import sys
